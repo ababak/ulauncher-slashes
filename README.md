@@ -15,3 +15,5 @@ Open ulauncher preferences window -> extensions -> add extension and paste the f
 ## Usage
 
 Copy some file path to a clipboard, type ```sl``` in Ulauncher and select the desired path conversion which will be copied to the clipboard.
+
+![Slashes conversion list](images/screenshot.png)
